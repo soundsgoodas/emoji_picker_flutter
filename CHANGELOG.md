@@ -1,6 +1,8 @@
 ## Unreleased
 
 - Add Danish, Finnish, Icelandic, Norwegian Bokmål/Nynorsk, and Swedish/Polish emoji keywords from pinned Unicode CLDR 48.1, including inherited and derived annotations.
+- Add optional English keyword matching alongside the selected locale; search always uses the current emoji dataset after locale/custom-set changes.
+
 
 ## 4.5.4
 
